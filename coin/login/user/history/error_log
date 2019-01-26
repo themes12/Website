@@ -1,0 +1,642 @@
+[25-Jan-2019 13:57:11 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/mineckas/public_html/coin/login/user1/history/index.php on line 187
+[25-Jan-2019 13:57:12 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/mineckas/public_html/coin/login/user1/history/index.php on line 187
+[25-Jan-2019 13:57:14 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/mineckas/public_html/coin/login/user1/history/index.php on line 187
+[25-Jan-2019 13:58:55 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 50
+[25-Jan-2019 13:58:59 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 50
+[25-Jan-2019 13:59:47 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 50
+[25-Jan-2019 13:59:50 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 50
+[25-Jan-2019 14:00:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 50
+[25-Jan-2019 14:04:22 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 50
+[25-Jan-2019 14:04:35 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 50
+[25-Jan-2019 14:04:59 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 50
+[25-Jan-2019 14:05:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/mineckas/public_html/coin/login/user1/history/index.php.php on line 65
+[25-Jan-2019 14:05:02 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php.php on line 83
+[25-Jan-2019 14:05:02 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php.php on line 83
+[25-Jan-2019 14:05:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 65
+[25-Jan-2019 14:05:27 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 83
+[25-Jan-2019 14:05:27 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 83
+[25-Jan-2019 14:05:28 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 65
+[25-Jan-2019 14:05:28 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 83
+[25-Jan-2019 14:05:28 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 83
+[25-Jan-2019 14:06:36 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mineckas/public_html/coin/login/user1/history/index.php on line 74
+[25-Jan-2019 14:06:37 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mineckas/public_html/coin/login/user1/history/index.php on line 74
+[25-Jan-2019 14:06:58 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mineckas/public_html/coin/login/user1/history/index.php on line 74
+[25-Jan-2019 14:06:59 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 67
+[25-Jan-2019 14:06:59 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 68
+[25-Jan-2019 14:06:59 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 69
+[25-Jan-2019 14:06:59 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 70
+[25-Jan-2019 14:06:59 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 81
+[25-Jan-2019 14:06:59 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 81
+[25-Jan-2019 14:07:41 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 67
+[25-Jan-2019 14:07:41 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 68
+[25-Jan-2019 14:07:41 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 69
+[25-Jan-2019 14:07:41 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 70
+[25-Jan-2019 14:07:41 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 81
+[25-Jan-2019 14:07:41 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 81
+[25-Jan-2019 14:08:36 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 66
+[25-Jan-2019 14:08:36 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 67
+[25-Jan-2019 14:08:36 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 68
+[25-Jan-2019 14:08:36 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:08:36 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:09:27 America/New_York] PHP Notice:  Undefined index: Email in /home/mineckas/public_html/coin/login/user1/history/index.php on line 66
+[25-Jan-2019 14:09:27 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 67
+[25-Jan-2019 14:09:27 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 68
+[25-Jan-2019 14:09:27 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:09:27 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:09:30 America/New_York] PHP Notice:  Undefined index: Email in /home/mineckas/public_html/coin/login/user1/history/index.php on line 66
+[25-Jan-2019 14:09:30 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 67
+[25-Jan-2019 14:09:30 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 68
+[25-Jan-2019 14:09:30 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:09:30 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:09:34 America/New_York] PHP Notice:  Undefined index: Email in /home/mineckas/public_html/coin/login/user1/history/index.php on line 66
+[25-Jan-2019 14:09:34 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 67
+[25-Jan-2019 14:09:34 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 68
+[25-Jan-2019 14:09:34 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:09:34 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:09:38 America/New_York] PHP Notice:  Undefined index: Email in /home/mineckas/public_html/coin/login/user1/history/index.php on line 66
+[25-Jan-2019 14:09:38 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 67
+[25-Jan-2019 14:09:38 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 68
+[25-Jan-2019 14:09:38 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:09:38 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:09:40 America/New_York] PHP Notice:  Undefined index: Email in /home/mineckas/public_html/coin/login/user1/history/index.php on line 66
+[25-Jan-2019 14:09:40 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 67
+[25-Jan-2019 14:09:40 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 68
+[25-Jan-2019 14:09:40 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:09:40 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:09:56 America/New_York] PHP Notice:  Undefined index: Email in /home/mineckas/public_html/coin/login/user1/history/index.php on line 66
+[25-Jan-2019 14:09:56 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 67
+[25-Jan-2019 14:09:56 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 68
+[25-Jan-2019 14:09:56 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:09:56 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:10:16 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 67
+[25-Jan-2019 14:10:16 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 68
+[25-Jan-2019 14:10:16 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:10:16 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:11:25 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 68
+[25-Jan-2019 14:11:25 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:11:25 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:11:26 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user1/history/index.php on line 68
+[25-Jan-2019 14:11:26 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:11:26 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:12:03 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:12:03 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:13:15 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:13:15 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 79
+[25-Jan-2019 14:13:30 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 81
+[25-Jan-2019 14:13:30 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 81
+[25-Jan-2019 14:14:02 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 81
+[25-Jan-2019 14:14:02 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 81
+[25-Jan-2019 14:14:05 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 81
+[25-Jan-2019 14:14:05 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 81
+[25-Jan-2019 14:14:08 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user1/history/index.php on line 81
+[25-Jan-2019 14:14:08 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user1/history/index.php on line 81
+[25-Jan-2019 14:17:53 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:17:53 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:18:16 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:18:16 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:01 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:01 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:03 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:03 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:18 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:18 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:20 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:20 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:23 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:23 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:25 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:25 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:29 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:19:29 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:20:06 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:20:06 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:20:08 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:20:08 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:20:12 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:20:12 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 98
+[25-Jan-2019 14:21:22 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:21:22 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:21:31 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 14:21:31 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 14:22:45 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 102
+[25-Jan-2019 14:22:45 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 102
+[25-Jan-2019 14:23:42 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 102
+[25-Jan-2019 14:23:42 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 102
+[25-Jan-2019 14:24:28 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 102
+[25-Jan-2019 14:24:28 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 102
+[25-Jan-2019 14:33:46 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 14:33:46 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 14:33:49 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 14:33:49 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 14:34:05 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 14:34:05 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 14:37:06 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[25-Jan-2019 14:37:10 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[25-Jan-2019 14:37:31 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[25-Jan-2019 14:37:34 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[25-Jan-2019 14:41:11 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[25-Jan-2019 14:41:15 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[25-Jan-2019 14:41:16 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[25-Jan-2019 14:41:17 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[25-Jan-2019 14:42:31 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[25-Jan-2019 14:42:35 America/New_York] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/mineckas/public_html/coin/login/user/history/index.php on line 3
+[25-Jan-2019 14:43:01 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:43:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[25-Jan-2019 14:43:01 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:43:01 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:43:05 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:43:05 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[25-Jan-2019 14:43:05 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:43:05 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:43:07 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:43:07 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[25-Jan-2019 14:43:07 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:43:07 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:43:08 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:43:08 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[25-Jan-2019 14:43:08 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:43:08 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:44:02 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[25-Jan-2019 14:44:02 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:44:02 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:44:06 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:06 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[25-Jan-2019 14:44:06 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:44:06 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:44:32 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[25-Jan-2019 14:44:32 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:44:32 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:44:33 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[25-Jan-2019 14:44:33 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:44:33 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:44:34 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:34 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[25-Jan-2019 14:44:34 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:44:34 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:44:35 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:35 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 14:44:35 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:35 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:36 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:36 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 14:44:36 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:36 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:37 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:37 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 14:44:37 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:37 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:38 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:38 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 14:44:38 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:38 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:39 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:39 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 14:44:39 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:39 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:40 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:40 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 14:44:40 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:40 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:41 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:41 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 14:44:41 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:41 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:41 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:41 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 14:44:41 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:41 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:42 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:42 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 14:44:42 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:42 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:43 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:44:43 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 14:44:43 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:44:43 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:46:48 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:46:48 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 14:46:48 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:46:48 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 103
+[25-Jan-2019 14:46:52 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:46:52 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mineckas/public_html/coin/login/user/history/index.php on line 16
+[25-Jan-2019 14:46:52 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 108
+[25-Jan-2019 14:46:52 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 108
+[25-Jan-2019 14:49:33 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:49:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/mineckas/public_html/coin/login/user/history/index.php on line 16
+[25-Jan-2019 14:49:33 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 108
+[25-Jan-2019 14:49:33 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 108
+[25-Jan-2019 14:49:50 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:49:50 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 108
+[25-Jan-2019 14:49:50 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 108
+[25-Jan-2019 14:49:52 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:49:52 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 108
+[25-Jan-2019 14:49:52 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 108
+[25-Jan-2019 14:49:53 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:49:53 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 108
+[25-Jan-2019 14:49:53 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 108
+[25-Jan-2019 14:49:54 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 2
+[25-Jan-2019 14:49:54 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 108
+[25-Jan-2019 14:49:54 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 108
+[25-Jan-2019 14:52:31 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user/history/index.php on line 13
+[25-Jan-2019 14:52:31 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:52:31 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 14:53:41 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 14:53:43 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 14:54:14 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 14:54:26 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 14:54:27 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 14:54:28 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 14:54:29 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 14:54:30 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 14:58:14 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:01:25 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:01:27 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:01:28 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:04:38 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:04:39 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:08:29 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:08:30 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:08:35 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:09:57 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:09:59 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:10:35 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:10:37 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:11:36 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:14:14 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:14:17 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:14:18 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:14:19 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:14:19 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:14:41 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/mineckas/public_html/coin/login/user/history/index.php on line 12
+[25-Jan-2019 15:16:00 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 15:16:00 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 15:16:00 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 15:16:00 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 15:16:00 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 15:16:00 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 15:16:04 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 15:16:04 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 15:16:04 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 15:16:04 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 15:16:04 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 15:16:04 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 15:16:45 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:16:45 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:16:50 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:16:50 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:16:51 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:16:51 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:16:52 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:16:52 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:16:53 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:16:53 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:17:08 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:17:08 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:17:58 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:17:58 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:18:00 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:18:00 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:18:01 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:18:01 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:18:14 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:18:14 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:18:15 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:18:15 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:18:16 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:18:16 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:18:17 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:18:17 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:18:17 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:18:17 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:18:18 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:18:18 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:20:05 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/mineckas/public_html/coin/login/user/history/index.php on line 91
+[25-Jan-2019 15:20:07 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/mineckas/public_html/coin/login/user/history/index.php on line 91
+[25-Jan-2019 15:20:39 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user/history/index.php on line 92
+[25-Jan-2019 15:20:39 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user/history/index.php on line 94
+[25-Jan-2019 15:20:39 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user/history/index.php on line 95
+[25-Jan-2019 15:20:39 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:20:39 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:20:41 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user/history/index.php on line 92
+[25-Jan-2019 15:20:41 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user/history/index.php on line 94
+[25-Jan-2019 15:20:41 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user/history/index.php on line 95
+[25-Jan-2019 15:20:41 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:20:41 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:21:05 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user/history/index.php on line 92
+[25-Jan-2019 15:21:05 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user/history/index.php on line 94
+[25-Jan-2019 15:21:05 America/New_York] PHP Notice:  Undefined variable: row in /home/mineckas/public_html/coin/login/user/history/index.php on line 95
+[25-Jan-2019 15:21:05 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:21:05 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:22:13 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/mineckas/public_html/coin/login/user/history/index.php on line 125
+[25-Jan-2019 15:23:14 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/mineckas/public_html/coin/login/user/history/index.php on line 124
+[25-Jan-2019 15:23:15 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/mineckas/public_html/coin/login/user/history/index.php on line 124
+[25-Jan-2019 15:23:57 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 106
+[25-Jan-2019 15:23:57 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 106
+[25-Jan-2019 15:25:32 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:25:32 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:25:52 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:25:52 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:25:54 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:25:54 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:26:07 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:26:07 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:26:42 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 106
+[25-Jan-2019 15:26:42 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 106
+[25-Jan-2019 15:27:14 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 15:27:14 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 15:27:14 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 15:27:14 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 15:27:16 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 15:27:16 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 90
+[25-Jan-2019 15:27:16 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 15:27:16 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 15:27:37 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 15:27:37 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 104
+[25-Jan-2019 15:28:34 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:28:34 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:28:37 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:28:37 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 107
+[25-Jan-2019 15:29:30 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:29:30 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 105
+[25-Jan-2019 15:32:00 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 125
+[25-Jan-2019 15:32:00 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 125
+[25-Jan-2019 15:35:57 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/mineckas/public_html/coin/login/user/history/index.php on line 119
+[25-Jan-2019 15:35:58 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/mineckas/public_html/coin/login/user/history/index.php on line 119
+[25-Jan-2019 15:36:36 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 129
+[25-Jan-2019 15:36:36 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 129
+[25-Jan-2019 15:36:57 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 129
+[25-Jan-2019 15:36:57 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 129
+[25-Jan-2019 15:37:31 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 117
+[25-Jan-2019 15:37:31 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:31 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:33 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 117
+[25-Jan-2019 15:37:33 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:33 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:35 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 117
+[25-Jan-2019 15:37:35 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:35 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:36 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 117
+[25-Jan-2019 15:37:36 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:36 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:41 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 117
+[25-Jan-2019 15:37:41 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:41 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:42 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 117
+[25-Jan-2019 15:37:42 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:42 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:43 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 117
+[25-Jan-2019 15:37:43 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:43 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:43 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 117
+[25-Jan-2019 15:37:43 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:43 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:55 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 117
+[25-Jan-2019 15:37:55 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:37:55 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 126
+[25-Jan-2019 15:38:24 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 115
+[25-Jan-2019 15:38:24 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 115
+[25-Jan-2019 15:38:24 America/New_York] PHP Notice:  Undefined variable: objResult1 in /home/mineckas/public_html/coin/login/user/history/index.php on line 116
+[25-Jan-2019 15:38:24 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 125
+[25-Jan-2019 15:38:24 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 125
+[25-Jan-2019 15:42:23 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 123
+[25-Jan-2019 15:42:23 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 123
+[25-Jan-2019 15:42:23 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 15:42:23 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 15:42:28 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 123
+[25-Jan-2019 15:42:28 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 123
+[25-Jan-2019 15:42:28 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 15:42:28 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 15:44:56 America/New_York] PHP Notice:  Undefined index: SumMoney_add in /home/mineckas/public_html/coin/login/user/history/index.php on line 125
+[25-Jan-2019 15:44:56 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 134
+[25-Jan-2019 15:44:56 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 134
+[25-Jan-2019 15:45:01 America/New_York] PHP Notice:  Undefined index: SumMoney_add in /home/mineckas/public_html/coin/login/user/history/index.php on line 125
+[25-Jan-2019 15:45:01 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 134
+[25-Jan-2019 15:45:01 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 134
+[25-Jan-2019 15:45:22 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 134
+[25-Jan-2019 15:45:22 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 134
+[25-Jan-2019 15:45:28 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 134
+[25-Jan-2019 15:45:28 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 134
+[25-Jan-2019 15:46:53 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 134
+[25-Jan-2019 15:46:53 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 134
+[25-Jan-2019 15:48:17 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 15:48:17 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 15:50:58 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 15:50:58 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 15:51:02 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 15:51:02 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 20:37:27 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 20:37:27 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 20:38:13 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 20:38:13 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 20:40:36 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 20:40:36 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 20:52:58 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 20:52:58 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 21:12:38 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 21:12:38 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 21:16:44 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 21:16:44 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 23:36:03 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 23:36:03 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[25-Jan-2019 23:46:14 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[25-Jan-2019 23:46:14 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[25-Jan-2019 23:46:19 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[25-Jan-2019 23:46:19 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[25-Jan-2019 23:46:43 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[25-Jan-2019 23:46:43 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 00:57:09 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 00:57:09 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 01:59:12 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 01:59:12 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:00:57 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:00:57 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:03:13 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:03:13 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:05:53 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:05:53 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:05:55 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:05:55 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:06:13 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:06:13 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:11:17 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:11:17 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:11:19 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:11:19 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:11:21 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:11:21 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:12:11 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:12:11 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:12:14 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:12:14 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:12:17 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:12:17 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:14:03 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:14:03 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:14:06 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:14:06 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:16:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:16:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 15
+[26-Jan-2019 02:16:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 18
+[26-Jan-2019 02:16:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:16:26 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:16:26 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:16:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:16:55 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 15
+[26-Jan-2019 02:16:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 18
+[26-Jan-2019 02:16:55 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:16:55 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:16:55 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:16:58 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:16:58 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 15
+[26-Jan-2019 02:16:58 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 18
+[26-Jan-2019 02:16:58 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:16:58 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:16:58 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:17:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:17:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 15
+[26-Jan-2019 02:17:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 18
+[26-Jan-2019 02:17:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:17:53 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:17:53 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:17:59 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:17:59 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 15
+[26-Jan-2019 02:17:59 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 18
+[26-Jan-2019 02:17:59 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:17:59 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:17:59 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:19:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:19:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 15
+[26-Jan-2019 02:19:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 18
+[26-Jan-2019 02:19:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:19:15 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:19:15 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:20:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:20:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 15
+[26-Jan-2019 02:20:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 18
+[26-Jan-2019 02:20:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:20:23 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:20:23 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:22:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:22:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 15
+[26-Jan-2019 02:22:25 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:22:25 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 138
+[26-Jan-2019 02:24:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 13
+[26-Jan-2019 02:24:18 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:24:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[26-Jan-2019 02:24:18 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 18
+[26-Jan-2019 02:24:18 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:24:18 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:24:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 13
+[26-Jan-2019 02:24:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:24:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[26-Jan-2019 02:24:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 18
+[26-Jan-2019 02:24:24 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:24:24 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:25:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 13
+[26-Jan-2019 02:25:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:25:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[26-Jan-2019 02:25:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 18
+[26-Jan-2019 02:25:27 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:25:27 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:25:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 13
+[26-Jan-2019 02:25:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:25:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/mineckas/public_html/coin/login/user/history/index.php on line 17
+[26-Jan-2019 02:25:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 18
+[26-Jan-2019 02:25:30 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:25:30 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:25:34 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mineckas/public_html/coin/login/user/history/index.php on line 10
+[26-Jan-2019 02:25:34 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mineckas/public_html/coin/login/user/history/index.php on line 10
+[26-Jan-2019 02:25:34 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mineckas/public_html/coin/login/user/history/index.php on line 10
+[26-Jan-2019 02:25:34 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:25:34 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:25:34 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:25:34 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:25:34 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:25:34 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:25:34 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:25:34 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:25:39 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mineckas/public_html/coin/login/user/history/index.php on line 10
+[26-Jan-2019 02:25:39 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mineckas/public_html/coin/login/user/history/index.php on line 10
+[26-Jan-2019 02:25:39 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mineckas/public_html/coin/login/user/history/index.php on line 10
+[26-Jan-2019 02:25:39 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:25:39 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:25:39 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:25:39 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:25:39 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:25:39 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:25:39 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:25:39 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:27:53 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mineckas/public_html/coin/login/user/history/index.php on line 10
+[26-Jan-2019 02:27:53 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mineckas/public_html/coin/login/user/history/index.php on line 10
+[26-Jan-2019 02:27:53 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mineckas/public_html/coin/login/user/history/index.php on line 10
+[26-Jan-2019 02:27:53 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:27:53 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:27:53 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mineckas/public_html/coin/login/user/history/index.php on line 14
+[26-Jan-2019 02:27:53 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:27:53 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:27:53 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mineckas/public_html/coin/login/user/history/index.php on line 19
+[26-Jan-2019 02:27:53 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:27:53 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:27:59 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:27:59 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:39:38 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 132
+[26-Jan-2019 02:39:38 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 132
+[26-Jan-2019 02:39:38 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:39:38 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:41:04 America/New_York] PHP Notice:  Undefined index: Firstname in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[26-Jan-2019 02:41:04 America/New_York] PHP Notice:  Undefined index: Lastname in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[26-Jan-2019 02:41:04 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 142
+[26-Jan-2019 02:41:04 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 142
+[26-Jan-2019 02:41:07 America/New_York] PHP Notice:  Undefined index: Firstname in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[26-Jan-2019 02:41:07 America/New_York] PHP Notice:  Undefined index: Lastname in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[26-Jan-2019 02:41:07 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 142
+[26-Jan-2019 02:41:07 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 142
+[26-Jan-2019 02:41:34 America/New_York] PHP Notice:  Undefined index: Firstname in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[26-Jan-2019 02:41:34 America/New_York] PHP Notice:  Undefined index: Lastname in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[26-Jan-2019 02:41:34 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 142
+[26-Jan-2019 02:41:34 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 142
+[26-Jan-2019 02:41:38 America/New_York] PHP Notice:  Undefined index: Firstname in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[26-Jan-2019 02:41:38 America/New_York] PHP Notice:  Undefined index: Lastname in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[26-Jan-2019 02:41:38 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 142
+[26-Jan-2019 02:41:38 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 142
+[26-Jan-2019 02:41:55 America/New_York] PHP Notice:  Undefined index: Firstname in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[26-Jan-2019 02:41:55 America/New_York] PHP Notice:  Undefined index: Lastname in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[26-Jan-2019 02:41:55 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 142
+[26-Jan-2019 02:41:55 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 142
+[26-Jan-2019 02:41:57 America/New_York] PHP Notice:  Undefined index: Firstname in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[26-Jan-2019 02:41:57 America/New_York] PHP Notice:  Undefined index: Lastname in /home/mineckas/public_html/coin/login/user/history/index.php on line 133
+[26-Jan-2019 02:41:57 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 142
+[26-Jan-2019 02:41:57 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 142
+[26-Jan-2019 02:41:59 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 132
+[26-Jan-2019 02:41:59 America/New_York] PHP Notice:  Undefined variable: objResult in /home/mineckas/public_html/coin/login/user/history/index.php on line 132
+[26-Jan-2019 02:41:59 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:41:59 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:42:47 America/New_York] PHP Notice:  Undefined index: Firstname in /home/mineckas/public_html/coin/login/user/history/index.php on line 132
+[26-Jan-2019 02:42:47 America/New_York] PHP Notice:  Undefined index: Lastname in /home/mineckas/public_html/coin/login/user/history/index.php on line 132
+[26-Jan-2019 02:42:47 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:42:47 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:42:53 America/New_York] PHP Notice:  Undefined index: Firstname in /home/mineckas/public_html/coin/login/user/history/index.php on line 132
+[26-Jan-2019 02:42:53 America/New_York] PHP Notice:  Undefined index: Lastname in /home/mineckas/public_html/coin/login/user/history/index.php on line 132
+[26-Jan-2019 02:42:53 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:42:53 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 141
+[26-Jan-2019 02:44:35 America/New_York] PHP Notice:  Undefined index: Firstname in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:44:35 America/New_York] PHP Notice:  Undefined index: Lastname in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:44:35 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 146
+[26-Jan-2019 02:44:35 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 146
+[26-Jan-2019 02:44:54 America/New_York] PHP Notice:  Undefined index: Firstname in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:44:54 America/New_York] PHP Notice:  Undefined index: Lastname in /home/mineckas/public_html/coin/login/user/history/index.php on line 137
+[26-Jan-2019 02:44:54 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 146
+[26-Jan-2019 02:44:54 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 146
+[26-Jan-2019 02:44:57 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 146
+[26-Jan-2019 02:44:57 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 146
+[26-Jan-2019 02:51:58 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 155
+[26-Jan-2019 02:51:58 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 155
+[26-Jan-2019 02:53:12 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 155
+[26-Jan-2019 02:53:12 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 155
+[26-Jan-2019 02:53:23 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 155
+[26-Jan-2019 02:53:23 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 155
+[26-Jan-2019 03:02:26 America/New_York] PHP Notice:  Undefined variable: con in /home/mineckas/public_html/coin/login/user/history/index.php on line 155
+[26-Jan-2019 03:02:26 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/mineckas/public_html/coin/login/user/history/index.php on line 155

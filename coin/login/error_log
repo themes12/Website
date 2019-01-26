@@ -1,0 +1,16 @@
+[22-Dec-2018 04:27:06 America/New_York] PHP Notice:  Undefined index: ID in /home/mineckas/public_html/login/member_Free_page.php on line 9
+[22-Dec-2018 04:27:06 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/mineckas/public_html/login/member_Free_page.php on line 116
+[22-Dec-2018 04:28:17 America/New_York] PHP Notice:  Undefined index: ID in /home/mineckas/public_html/login/member_Free_page.php on line 9
+[22-Dec-2018 04:28:17 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/mineckas/public_html/login/member_Free_page.php on line 116
+[22-Dec-2018 04:29:27 America/New_York] PHP Notice:  Undefined index: ID in /home/mineckas/public_html/login/member_Free_page.php on line 9
+[22-Dec-2018 04:29:27 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/mineckas/public_html/login/member_Free_page.php on line 116
+[22-Dec-2018 04:29:37 America/New_York] PHP Notice:  Undefined index: ID in /home/mineckas/public_html/login/member_VIP_page.php on line 9
+[22-Dec-2018 04:29:37 America/New_York] PHP Notice:  Undefined index: ID in /home/mineckas/public_html/login/member_VIP_page.php on line 25
+[22-Dec-2018 04:29:37 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/mineckas/public_html/login/member_VIP_page.php on line 26
+[22-Dec-2018 04:29:37 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mineckas/public_html/login/member_VIP_page.php on line 27
+[22-Dec-2018 04:29:37 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/mineckas/public_html/login/member_VIP_page.php on line 134
+[26-Jan-2019 02:35:49 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/mineckas/public_html/coin/login/Login.php on line 2
+[26-Jan-2019 02:36:04 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/mineckas/public_html/coin/login/Login.php on line 2
+[26-Jan-2019 02:38:34 America/New_York] PHP Notice:  Undefined index: ID in /home/mineckas/public_html/coin/login/Login.php on line 3
+[26-Jan-2019 02:47:29 America/New_York] PHP Notice:  Undefined index: ID in /home/mineckas/public_html/coin/login/Login.php on line 3
+[26-Jan-2019 02:47:45 America/New_York] PHP Notice:  Undefined index: ID in /home/mineckas/public_html/coin/login/Login.php on line 3
